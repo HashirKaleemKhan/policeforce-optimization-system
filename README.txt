@@ -1,13 +1,10 @@
                                                                                                                           ------------------------------PROJECT INFO------------------------------
 
 PROJECT TITLE: SINDH POLICE FORCE OPTIMIZATION SYSTEM.
-COURSE INSTRUCTOR: KASHIF KHAN
-SECTION: D
 
 MADE BY:
-1. Hamza Godil (14K-2187).
-2. Hafiz Muhammad Zubair Hasan (14K-2257).
-3. Krishan Lal (14K-2162).
+
+Hashir Kaleem Khan (17K-3948).
 
                                                                                                                  ------------------------------ZIP FOLDER CONTENTS------------------------------
 The ".zip" folder consist of: five Header (.h) file, five Implementation (.cpp) files, one main.cpp file and a Record Files folder consist of thirty five text (.txt) files
